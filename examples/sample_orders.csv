@@ -1,0 +1,5 @@
+order_id,channel,status,amount
+DEMO-001,zhihu,paid,19.90
+DEMO-002,github,paid,5.50
+DEMO-003,zhihu,paid,10.10
+DEMO-004,github,pending,99.00
