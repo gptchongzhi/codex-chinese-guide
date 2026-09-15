@@ -259,9 +259,11 @@ zhihu,2,30.00
 - 登录或权益仍有疑问，可继续阅读 [Ai66 Codex 权益核对教程](https://ai66.org/codex-login-check?utm_source=github&utm_medium=referral&utm_campaign=seo_growth_202609&utm_content=codex_guide_troubleshooting)。
 - 如已确认需要了解会员服务，可查看 [Ai66 会员商品与开通说明](https://ai66.org/chatgpt-plus-chongzhi?utm_source=github&utm_medium=referral&utm_campaign=seo_growth_202609&utm_content=codex_guide_membership)。具体适用条件、价格与交付以商品页为准。
 - Plus 开通与续费相关内容见维护者的 [ChatGPT 充值教程仓库](https://github.com/gptchongzhi/chatgpt-plus-daichong-guide)。
+- 国内开通 ChatGPT Plus / Pro 的五种方式对比、价格参考与避坑清单，见 [GPT充值指南 2026](https://github.com/l2461090/gpt-chongzhi)。
 
 发现教程错误，欢迎通过 Issue 提供文档位置、客户端版本和脱敏后的复现步骤。示例数据只用于学习，不代表真实订单、商品价格或客户使用结果。
 
 ### 更新记录
 
 - 2026-09-10：整理安装与登录方法，加入 CSV 汇总练习、任务模板、项目约定示例、额度与常见问题排查。
+- 2026-09-14：相关教程新增《GPT充值指南 2026》链接。
